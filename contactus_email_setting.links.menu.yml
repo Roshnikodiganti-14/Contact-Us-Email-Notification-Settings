@@ -1,0 +1,6 @@
+contactus_email_setting.settings_form:
+  title: 'Contact us Email settings'
+  route_name: contactus_email_setting.settings_form
+  description: 'Contact us Email settings'
+  parent: system.admin_config_system
+  weight: 99

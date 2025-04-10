@@ -1,0 +1,5 @@
+name: contactus_email_setting
+type: module
+description: A module to configure Contact us email settings
+package: Custom
+core_version_requirement: ^10

@@ -1,0 +1,8 @@
+view_contactus_email_setting_permission:
+  title: 'View Contact us Email settings'
+  description: 'This permission allows read-only access for Email settings form of Contact Us'
+  restrict access: false
+edit_contactus_email_setting_permission:
+  title: 'Edit Contact us Email settings'
+  description: 'This permission allows Edit access for Email settings form of Contact Us'
+  restrict access: false

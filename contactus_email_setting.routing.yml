@@ -1,0 +1,7 @@
+contactus_email_setting.settings_form:
+  path: '/admin/config/hdfc-bank/contactus-settings'
+  defaults:
+    _form: '\Drupal\contactus_email_setting\Form\SettingsForm'
+    _title: 'Contact us Email settings'
+  requirements:
+    _permission: 'view_contactus_email_setting_permission+edit_contactus_email_setting_permission'
